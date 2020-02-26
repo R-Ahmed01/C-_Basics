@@ -1,0 +1,22 @@
+C:\Users\RifathAhmed\Desktop\Test\Test\obj\Debug\netcoreapp3.0\Test.csprojAssemblyReference.cache
+C:\Users\RifathAhmed\Desktop\Test\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfoInputs.cache
+C:\Users\RifathAhmed\Desktop\Test\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfo.cs
+C:\Users\RifathAhmed\Desktop\Test\Test\bin\Debug\netcoreapp3.0\Test.exe
+C:\Users\RifathAhmed\Desktop\Test\Test\bin\Debug\netcoreapp3.0\Test.deps.json
+C:\Users\RifathAhmed\Desktop\Test\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.json
+C:\Users\RifathAhmed\Desktop\Test\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.dev.json
+C:\Users\RifathAhmed\Desktop\Test\Test\bin\Debug\netcoreapp3.0\Test.dll
+C:\Users\RifathAhmed\Desktop\Test\Test\bin\Debug\netcoreapp3.0\Test.pdb
+C:\Users\RifathAhmed\Desktop\Test\Test\obj\Debug\netcoreapp3.0\Test.dll
+C:\Users\RifathAhmed\Desktop\Test\Test\obj\Debug\netcoreapp3.0\Test.pdb
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\bin\Debug\netcoreapp3.0\Test.exe
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\bin\Debug\netcoreapp3.0\Test.deps.json
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.json
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.dev.json
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\bin\Debug\netcoreapp3.0\Test.dll
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\bin\Debug\netcoreapp3.0\Test.pdb
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\obj\Debug\netcoreapp3.0\Test.csprojAssemblyReference.cache
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfoInputs.cache
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfo.cs
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\obj\Debug\netcoreapp3.0\Test.dll
+C:\Users\RifathAhmed\Documents\Coding Tutorials\C#\OOP\Test\obj\Debug\netcoreapp3.0\Test.pdb
