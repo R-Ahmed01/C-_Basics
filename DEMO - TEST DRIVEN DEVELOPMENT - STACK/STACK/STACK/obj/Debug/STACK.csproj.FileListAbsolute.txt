@@ -1,6 +1,0 @@
-C:\Users\RifathAhmed\Documents\repos\DEMO - C# - BASICS\DEMO - TEST DRIVEN DEVELOPMENT - STACK\STACK\STACK\obj\Debug\STACK.csprojAssemblyReference.cache
-C:\Users\RifathAhmed\Documents\repos\DEMO - C# - BASICS\DEMO - TEST DRIVEN DEVELOPMENT - STACK\STACK\STACK\bin\Debug\STACK.exe.config
-C:\Users\RifathAhmed\Documents\repos\DEMO - C# - BASICS\DEMO - TEST DRIVEN DEVELOPMENT - STACK\STACK\STACK\bin\Debug\STACK.exe
-C:\Users\RifathAhmed\Documents\repos\DEMO - C# - BASICS\DEMO - TEST DRIVEN DEVELOPMENT - STACK\STACK\STACK\bin\Debug\STACK.pdb
-C:\Users\RifathAhmed\Documents\repos\DEMO - C# - BASICS\DEMO - TEST DRIVEN DEVELOPMENT - STACK\STACK\STACK\obj\Debug\STACK.exe
-C:\Users\RifathAhmed\Documents\repos\DEMO - C# - BASICS\DEMO - TEST DRIVEN DEVELOPMENT - STACK\STACK\STACK\obj\Debug\STACK.pdb
